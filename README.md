@@ -4,7 +4,7 @@
 ### Backend:
 Node.js / Javascript - Expressjs - Socket.io
 ### Frontend:
-Svelte - Socket.io-client
+Javascript - Svelte - Socket.io-client - CSS
 
 ## Download and execute app:
 
