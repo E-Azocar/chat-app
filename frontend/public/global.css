@@ -1,0 +1,7 @@
+.mt-large {
+    margin-top: 6em;
+}
+
+.form-control, .card, .btn, .list-group {
+    border-radius: 0px;
+}
