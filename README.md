@@ -8,7 +8,7 @@ Javascript - Svelte - Socket.io-client - CSS
 
 ## Download and execute app:
 
-`git clone https://github.com/E-Azocar/chat-app.git`
+`git clone https://github.com/e-azocar/chat-app.git`
 
 `cd chat-app/frontend`
 
